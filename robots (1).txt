@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meetlive-5rex.vercel.app/sitemap.xml
